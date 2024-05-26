@@ -1,2 +1,5 @@
 [project]
 name = Resist Loneliness (LOG FILE)
+
+[servers.ghpages]
+target = ghpages://ta0ma0/rst_lnlss_blog

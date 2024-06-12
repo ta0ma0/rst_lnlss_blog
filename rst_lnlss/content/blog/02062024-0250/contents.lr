@@ -4,8 +4,14 @@ author: rst_lnlss
 ---
 body:
 
-<img src='/rst_lnlss_blog/static/addict.jpg' class=leftimg>
 
+<div class="image-container leftimg">
+<img src='/rst_lnlss_blog/static/addict.jpg' class=leftimg>
+  <div class="overlay">
+    <p class="title">Addict</p>
+    <a href="#" target="_blank" class="artist">None</a>
+  </div>
+</div>
 
 Neon-lit morning. Jacked into the grid, I navigate the sprawl to the electronic bazaar. Mission: score an SD-card for my PDA and accumulators for a DIY power bank kit. Gotta stay juiced and connected out here. Transfer complete. Load up my favorite synth-wave tracks onto the PDA for untethered audio bliss.
 
@@ -17,7 +23,17 @@ Time ticks on, each moment a digital drop in the ocean of existence. Boring or t
 
 <hr>
 
-Sound: <b>Cinephile - Comatose</b>
+<table>
+  <tr>
+    <td>Sound: Cinephile - Comatose</td>
+</tr>
+<tr><td>
+<audio controls>
+  <source src="/rst_lnlss_blog/static/sound/Cinephile - Comatose.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio></td> 
+  </tr>
+</table>
 
 ---
 pub_date: 2024-06-01

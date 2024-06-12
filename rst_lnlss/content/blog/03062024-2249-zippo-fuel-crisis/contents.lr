@@ -4,7 +4,14 @@ author: rst_lnlss
 ---
 body:
 
+
+<div class="image-container">
 <img src='/rst_lnlss_blog/static/fuel_stop_by_jacobcharlesdietz_d7z42d1-fullview.jpg'>
+  <div class="overlay">
+    <p class="title">Fuel Stop</p>
+    <a href="https://www.deviantart.com/jacobcharlesdietz/art/Fuel-Stop-482239477" target="_blank" class="artist">by JacobCharlesDietz</a>
+  </div>
+</div>
 
 Zippo Fuel Crisis
 Got a Zippo lighter, but no Zippo fuel. Tried 97% alcohol, solvent, nothing worked. Might need to hit the gas station. I'll give it a shot.
@@ -21,7 +28,10 @@ Birthday party time. My old friend's gone off the grid. Probably couldn't find t
 AI Access Request
 In a restricted sector with no free AI access, they're asking for a way in. Gotta ponder that one.
 ---
+Sound:
 
-Sound: <b>:wampcut:</b>
+<b>:wampcut:</b>
 
+pub_date: 2024-06-03
+---
 pub_date: 2024-06-03

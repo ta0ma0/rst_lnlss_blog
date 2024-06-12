@@ -4,7 +4,13 @@ author: rst_lnlss
 ---
 body:
 
+<div class="image-container">
 <img src='/rst_lnlss_blog/static/hexaphone_660_by_duskie_06_degp8t2-pre.png'>
+  <div class="overlay">
+    <p class="title">Hexaphone 660</p>
+    <a href="https://www.deviantart.com/duskie-06/art/Hexaphone-660-874578134" target="_blank" class="artist">by Duskie-06</a>
+  </div>
+</div>
 
 The neon glow of the city seeped through the cracks of my blinds as I jolted awake, my neural implant buzzing before the caffeine hit my system. The holographic display of my phone flashed, revealing the face of my apartment's AI administrator demanding the monthly payment. I stumbled to the ATM, only to find my cred-chip malfunctioning. Forced to withdraw physical cash from the office, I made my way to the electronic store, driven by an inexplicable urge to acquire a mini-computer running Android OS. Despite my preference for Linux, the allure of Android's sleek interface proved irresistible.
 
@@ -12,6 +18,15 @@ Upon returning home, reality struck me like a glitch in the matrix—today was F
 
 The revelation of the day hit me like a rogue lines of code: Social programming is not just a theory, but a tangible force shaping the very fabric of our society. I witnessed firsthand how those exposed to its influence transformed, their thoughts and actions molded by the invisible strings of the system.
 <hr>
-Sound: <b>Felio - Rituals Tape •67</b>
+
+<table>
+  <tr>
+    <td>Sound: Felio - Rituals Tape •67</td>
+</tr>
+<tr><td>
+<iframe width="300" src="https://www.youtube.com/embed/-TuFg1iqTns" title="Felio - Rituals Tape •67" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></td> 
+  </tr>
+</table>
+
 ---
 pub_date: 2024-05-31

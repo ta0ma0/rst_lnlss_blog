@@ -4,7 +4,15 @@ author: rst_lnlss
 ---
 body:
 
+
+<div class="image-container leftimg">
 <img src='/rst_lnlss_blog/static/trainer.jpg' class=leftimg>
+  <div class="overlay">
+    <p class="title">AI generated</p>
+    <a href="#" target="_blank" class="artist">by rst_lnlss</a>
+  </div>
+</div>
+
 
 Oh, endless Monday. Usually, I dig my gig, but not today. Today, I think my job mates left half their wetware at home. Fine, I set up smart alerts for this bloody hell mail client. To reduce the loneliness, I posted on a collective blog, but I can't stand the stupid and idle chatter. They don't need to know what I know, but... hell, they're just a mindless crowd, and I despise crowds.
 
@@ -16,6 +24,14 @@ When I went to get a hit of caffeine from the machine, I saw my trainer. He walk
 I like rgb-flame from my mouse in dark kitchen.
 
 <hr>
-Sound: <b>Hugo Kant - Far From Home (Full Album)</b>
+
+<table>
+  <tr>
+    <td>Sound: Hugo Kant - Far From Home (Full Album)</td>
+</tr>
+<tr><td>
+<iframe width="300" src="https://www.youtube.com/embed/-tOSh9bDh00" title="Hugo Kant - Far From Home (Full Album)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></td> 
+  </tr>
+</table>
 ---
 pub_date: 2024-05-27

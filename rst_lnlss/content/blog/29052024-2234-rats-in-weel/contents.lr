@@ -4,7 +4,15 @@ author: rst_lnlss
 ---
 body:
 
+
+<div class="image-container">
 <img src='/rst_lnlss_blog/static/the_abandoned_android_by_serendigity_art_dgjt3ct-pre.jpg'>
+  <div class="overlay">
+    <p class="title">The Abandoned Android</p>
+    <a href="https://www.deviantart.com/serendigity-art/art/The-Abandoned-Android-1000728893" target="_blank" class="artist">by Serendigity-Art</a>
+  </div>
+</div>
+
 
 In a gritty, neon-lit corner of Kingston, a lone hero emerged amidst the sprawling slums. Armed with nothing but discarded tech and an unwavering resolve, he assembled computers from spare parts and shared his knowledge with the children of the forgotten. In makeshift classrooms, he taught them to navigate the digital realm, to code their way out of poverty, and to sculpt their dreams in 3D.
 
@@ -19,8 +27,21 @@ This is the harsh reality, a truth I know all too well. The once-free spirits of
 Just today, I met with the apartment administrator, a man who sought my aid in fixing his computer. When I asked for a meager tablet in return, he spouted some nonsense about everyone helping each other without expectation. I laughed silently and walked away, knowing all too well that in this world, nothing comes for free.
 <hr>
 
-Sound: <b>SHIKIMO -  Test Subject</b>
+
+<table>
+  <tr>
+    <td>Sound: SHIKIMO -  Test Subject</td>
+</tr>
+<tr><td>
+<audio controls>
+  <source src="/rst_lnlss_blog/static/sound/SHIKIMO - Test Subject.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio></td> 
+  </tr>
+</table>
 
 ---
-pub_date: 2024-05-29
+pub_date:
+
+2024-05-29
 

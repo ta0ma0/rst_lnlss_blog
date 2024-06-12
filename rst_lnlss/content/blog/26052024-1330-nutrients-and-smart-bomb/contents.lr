@@ -4,7 +4,15 @@ author: rst_lnlss
 ---
 body:
 
+
+<div class="image-container leftimg">
 <img src='/rst_lnlss_blog/static/techno_cube_vj_loop_by_riotstarter1988_devart.gif' class=leftimg >
+  <div class="overlay">
+    <p class="title">Techno Cube VJ Loop</p>
+    <a href="https://www.deviantart.com/riotstarter1988/art/Techno-Cube-VJ-Loop-836691405" target="_blank" class="artist">by Riotstarter1988</a>
+  </div>
+</div>
+
 
 Morning ladies and gentlemen. I was build blog on static pages until 5 am, my fingers hovering over the keyboard, and the documentation lines helpfully indicated what to do, almost instantly. Everything worked out and I went into the capsule.
 
@@ -12,6 +20,17 @@ For breakfast, I have planned a nutritious cocktail of cottage cheese, nuts and 
 
 In the background was the thought of a crazy dictator dropping a smart bomb on a construction hypermarket. Connecting to media gives us a feeling of belonging to the world and to reality, but to hell with this reality, I turn on the music. However, I am sure the thought remained in the subconscious and I do not avoid it, it makes me modern.
 <hr>
-Sound: <b>Daft Punk & Pharrell Williams - Lose Youself to Dance (Drumless Edition)</b>
+
+<table>
+  <tr>
+    <td>Sound: Daft Punk & Pharrell Williams - Lose Youself to Dance (Drumless Edition)</td>
+</tr>
+<tr><td>
+<audio controls>
+  <source src="/rst_lnlss_blog/static/sound/Daft Punk - Lose Yourself to Dance (Drumless Edition) (Audio) ft. Pharrell Williams.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio></td> 
+  </tr>
+</table>
 ---
 pub_date: 2024-05-26

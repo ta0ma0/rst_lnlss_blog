@@ -69,3 +69,57 @@ footer {
     height: 24px; /* Высота иконки */
     display: inline-block; /* Отображение в строке */
 }
+
+
+.image-container {
+    position: relative; /* Важно для позиционирования overlay */
+    display: inline-block; /* Или block, в зависимости от вашего макета */
+  }
+  
+  .image {
+    display: block;
+    width: 100%; /* Или укажите конкретную ширину */
+    height: auto;
+  }
+  
+  .overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.7); /* Полупрозрачный фон */rgb(158, 14, 146);
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    opacity: 0; /* Скрываем по умолчанию */
+    transition: opacity 0.3s ease; /* Плавное появление */
+  }
+  
+  .image-container:hover .overlay {
+    opacity: 1;
+  }
+  
+  .title, .artist {
+    margin: 10px 0;
+    text-align: center;
+  }
+  
+  .artist {
+    text-decoration: none;
+    color: lightblue;
+  }
+
+/* table 
+    {
+        border: 2px solid #a01ec0;
+        width: 200px;
+        height: 100px;
+      } */
+  
+td {
+        border: 2px solid #a01ec0;
+        text-align: center;
+      }

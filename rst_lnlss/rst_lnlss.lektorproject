@@ -15,3 +15,6 @@ target = ghpages://ta0ma0/rst_lnlss_blog?cname=resist-loneliness.blooddrop.live
 target = ghpages://ta0ma0/rst_lnlss_blog
 
 
+[build]
+output_path = "public"
+

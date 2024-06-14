@@ -1,9 +1,17 @@
 [project]
 name = Resist Loneliness (Half-Fiction log file)
-url = https://http://resist-loneliness.blooddrop.live
+url = http://resist-loneliness.blooddrop.live
 
 [servers.ghpages]
 target = ghpages://ta0ma0/rst_lnlss_blog
 
 [packages]
 lektor-atom = 0.4.0
+
+[servers.production]
+target = ghpages://ta0ma0/rst_lnlss_blog?cname=resist-loneliness.blooddrop.live
+
+[servers.*]
+target = ghpages://ta0ma0/rst_lnlss_blog
+
+

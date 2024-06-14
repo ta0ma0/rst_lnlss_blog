@@ -5,7 +5,7 @@ author: rst_lnlss
 body:
 
 <div class="image-container leftimg">
-<img src='/rst_lnlss_blog/static/vr_girl.jpg' class=leftimg>
+<img src='/static/vr_girl.jpg' class=leftimg>
   <div class="overlay">
     <p class="title">VR</p>
     <a href="#" target="_blank" class="artist">by rst_lnlss</a>
@@ -28,7 +28,7 @@ A thought flickered through my mind, a glimmer of insight amidst the city's digi
 </tr>
 <tr><td>
 <audio controls>
-  <source src="/rst_lnlss_blog/static/sound/01. My Leper Kid.mp3" type="audio/mpeg">
+  <source src="/static/sound/01. My Leper Kid.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio></td> 
   </tr>

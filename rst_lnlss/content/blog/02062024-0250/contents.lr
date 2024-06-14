@@ -6,7 +6,7 @@ body:
 
 
 <div class="image-container leftimg">
-<img src='/rst_lnlss_blog/static/addict.jpg' class=leftimg>
+<img src='/static/addict.jpg' class=leftimg>
   <div class="overlay">
     <p class="title">Addict</p>
     <a href="#" target="_blank" class="artist">None</a>
@@ -29,7 +29,7 @@ Time ticks on, each moment a digital drop in the ocean of existence. Boring or t
 </tr>
 <tr><td>
 <audio controls>
-  <source src="/rst_lnlss_blog/static/sound/Cinephile - Comatose.mp3" type="audio/mpeg">
+  <source src="/static/sound/Cinephile - Comatose.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio></td> 
   </tr>

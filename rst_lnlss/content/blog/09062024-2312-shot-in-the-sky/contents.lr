@@ -5,7 +5,7 @@ author: rst_lnlss
 body:
 
 <div class="image-container leftimg">
-<img src='/rst_lnlss_blog/static/the_red_onna_musha___xi_by_sinakasra_dexi36s.jpg'>
+<img src='/static/the_red_onna_musha___xi_by_sinakasra_dexi36s.jpg'>
   <div class="overlay">
     <p class="title">THE RED ONNA-MUSHA - XI</p>
     <a href="https://www.deviantart.com/sinakasra/art/THE-RED-ONNA-MUSHA-XI-902797732" target="_blank" class="artist">by sinakasra</a>
@@ -31,7 +31,7 @@ Thought of the day: We overestimate our influence on those closest to us. In rea
 </tr>
 <tr><td>
 <audio controls>
-  <source src="#" type="audio/mpeg">
+   <source src="/static/sound/02. Eat Them All.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio></td> 
   </tr>

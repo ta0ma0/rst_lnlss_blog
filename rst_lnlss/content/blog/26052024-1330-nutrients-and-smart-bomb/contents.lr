@@ -6,7 +6,7 @@ body:
 
 
 <div class="image-container leftimg">
-<img src='/rst_lnlss_blog/static/techno_cube_vj_loop_by_riotstarter1988_devart.gif' class=leftimg >
+<img src='/static/techno_cube_vj_loop_by_riotstarter1988_devart.gif' class=leftimg >
   <div class="overlay">
     <p class="title">Techno Cube VJ Loop</p>
     <a href="https://www.deviantart.com/riotstarter1988/art/Techno-Cube-VJ-Loop-836691405" target="_blank" class="artist">by Riotstarter1988</a>
@@ -27,7 +27,7 @@ In the background was the thought of a crazy dictator dropping a smart bomb on a
 </tr>
 <tr><td>
 <audio controls>
-  <source src="/rst_lnlss_blog/static/sound/Daft Punk - Lose Yourself to Dance (Drumless Edition) (Audio) ft. Pharrell Williams.mp3" type="audio/mpeg">
+  <source src="/static/sound/Daft Punk - Lose Yourself to Dance (Drumless Edition) (Audio) ft. Pharrell Williams.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio></td> 
   </tr>

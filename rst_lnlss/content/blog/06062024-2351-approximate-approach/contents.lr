@@ -5,7 +5,7 @@ author: rst_lnlss
 body:
 
 <div class="image-container leftimg">
-<img src='/rst_lnlss_blog/static/holy_war_by_adam_varga_d8uilkd-pre.jpg'>
+<img src='/static/holy_war_by_adam_varga_d8uilkd-pre.jpg'>
   <div class="overlay">
     <p class="title">Holy War</p>
     <a href="https://www.deviantart.com/adam-varga/art/Holy-War-534985645" target="_blank" class="artist">by Adam-Varga</a>
@@ -29,7 +29,7 @@ Thought of the day: We can't calculate everything. Sometimes, we have to make de
 </tr>
 <tr><td>
 <audio controls>
-  <source src="/rst_lnlss_blog/static/sound/02 Night Life.mp3" type="audio/mpeg">
+  <source src="/static/sound/02 Night Life.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio></td> 
   </tr>

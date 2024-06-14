@@ -5,7 +5,7 @@ author: rst_lnlss
 body:
 
 <div class="image-container leftimg">
-<img src='/rst_lnlss_blog/static/medai_god.jpg' class=leftimg>
+<img src='/static/medai_god.jpg' class=leftimg>
   <div class="overlay">
     <p class="title">God Media</p>
     <a href="#" target="_blank" class="artist">by rst_lnlss (AI)</a>
@@ -30,7 +30,7 @@ It's important to note the low level of police corruption and their good equipme
 </tr>
 <tr><td>
 <audio controls>
-  <source src="/rst_lnlss_blog/static/sound/NEUS - Downrising.mp3" type="audio/mpeg">
+  <source src="/static/sound/NEUS - Downrising.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio></td> 
   </tr>

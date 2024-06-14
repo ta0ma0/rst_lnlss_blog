@@ -6,7 +6,7 @@ body:
 
 
 <div class="image-container">
-<img src='/rst_lnlss_blog/static/the_abandoned_android_by_serendigity_art_dgjt3ct-pre.jpg'>
+<img src='/static/the_abandoned_android_by_serendigity_art_dgjt3ct-pre.jpg'>
   <div class="overlay">
     <p class="title">The Abandoned Android</p>
     <a href="https://www.deviantart.com/serendigity-art/art/The-Abandoned-Android-1000728893" target="_blank" class="artist">by Serendigity-Art</a>
@@ -34,7 +34,7 @@ Just today, I met with the apartment administrator, a man who sought my aid in f
 </tr>
 <tr><td>
 <audio controls>
-  <source src="/rst_lnlss_blog/static/sound/SHIKIMO - Test Subject.mp3" type="audio/mpeg">
+  <source src="/static/sound/SHIKIMO - Test Subject.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio></td> 
   </tr>

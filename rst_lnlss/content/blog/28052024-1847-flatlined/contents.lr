@@ -6,7 +6,7 @@ body:
 
 
 <div class="image-container ">
-<img src='/rst_lnlss_blog/static/boxing.png'>
+<img src='/static/boxing.png'>
   <div class="overlay">
     <p class="title">Cyberpunk 2077</p>
     <a href="#" target="_blank" class="artist">by rst_lnlss</a>
@@ -30,7 +30,7 @@ What's the big deal today? Silence. I'm talking about the deafening silence and 
 </tr>
 <tr><td>
 <audio controls>
-  <source src="/rst_lnlss_blog/static/sound/Archive - Lights [Full Version].mp3" type="audio/mpeg">
+  <source src="/static/sound/Archive - Lights [Full Version].mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio></td> 
   </tr>

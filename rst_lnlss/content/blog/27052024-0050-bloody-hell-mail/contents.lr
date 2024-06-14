@@ -6,7 +6,7 @@ body:
 
 
 <div class="image-container leftimg">
-<img src='/rst_lnlss_blog/static/trainer.jpg' class=leftimg>
+<img src='/static/trainer.jpg' class=leftimg>
   <div class="overlay">
     <p class="title">AI generated</p>
     <a href="#" target="_blank" class="artist">by rst_lnlss</a>

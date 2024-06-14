@@ -5,7 +5,7 @@ author: rst_lnlss
 body:
 
 <div class="image-container leftimg">
-<img src='/rst_lnlss_blog/static/akira-hed-2020.jpg'>
+<img src='/static/akira-hed-2020.jpg'>
   <div class="overlay">
     <p class="title">Akira</p>
     <a href="https://www.imdb.com/title/tt0094625/?ref_=fn_al_tt_1" target="_blank" class="artist">by Katsuhiro Ôtomo</a>
@@ -24,7 +24,7 @@ A runner once told me: Don't leave the room, don't make a mistake.
 </tr>
 <tr><td>
 <audio controls>
-  <source src="/rst_lnlss_blog/static/sound/THYLACINE - Home.mp3" type="audio/mpeg">
+  <source src="/static/sound/THYLACINE - Home.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio></td> 
   </tr>

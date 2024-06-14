@@ -5,7 +5,7 @@ author: rst_lnlss
 body:
 
 <div class="image-container">
-<img src='/rst_lnlss_blog/static/neon_cityscape_by_xtremetoxicguy_daele89.png'>
+<img src='/static/neon_cityscape_by_xtremetoxicguy_daele89.png'>
   <div class="overlay">
     <p class="title">Neon Cityscape</p>
     <a href="https://www.deviantart.com/xtremetoxicguy/art/Neon-Cityscape-629174601" target="_blank" class="artist">by xtremetoxicguy</a>
@@ -27,7 +27,7 @@ Today's truth: In this fast-paced, neon-lit world, planning years ahead is a foo
 </tr>
 <tr><td>
 <audio controls>
-  <source src="/rst_lnlss_blog/static/sound/15. My Monstrosity (Sydney Valette Remix).mp3" type="audio/mpeg">
+  <source src="/static/sound/15. My Monstrosity (Sydney Valette Remix).mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio></td> 
   </tr>

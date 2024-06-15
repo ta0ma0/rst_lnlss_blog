@@ -1,2 +1,2 @@
 #!/bin/bash
-lektor build --output-path rst_lnlss/public
+lektor build --output-path ./public

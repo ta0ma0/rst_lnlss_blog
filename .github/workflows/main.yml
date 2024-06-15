@@ -24,6 +24,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
+          github_token: ${{ secrets.PERSONAL_TOKEN }}
           lfs: true
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3

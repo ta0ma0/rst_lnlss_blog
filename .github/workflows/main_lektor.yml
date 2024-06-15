@@ -14,5 +14,6 @@ jobs:
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           folder: rst_lnlss/public # The folder the action should deploy.
+          clean: true  # clean gh-pages before deploy
           create_pull_request: false
           token: ${{ secrets.RST_LNLNSS_SECRET }}

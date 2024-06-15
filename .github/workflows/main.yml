@@ -24,10 +24,10 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          github_token: ${{ secrets.PERSONAL_TOKEN }}
+          github_token: ${{ secrets.RST_LNLNSS_SECERT }}
           lfs: true
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.PERSONAL_TOKEN }}
+          github_token: ${{ secrets.RST_LNLNSS_SECERT }}
           publish_dir: ./rst_lnlss/public

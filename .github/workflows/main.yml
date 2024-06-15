@@ -39,5 +39,5 @@ jobs:
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.RST_LNLNSS_SECERT }}  # Use the secret here
+          deploy_key: ${{ secrets.ID_LEKTOR_RSA }}
           publish_dir: ./rst_lnlss/public

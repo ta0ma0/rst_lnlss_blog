@@ -39,6 +39,7 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           # Upload entire repository
+          github_token: ${{ secrets.RST_LNLNSS_SECERT }}
           path: './rst_lnlss/public'
       - name: Deploy to GitHub Pages
         id: deployment

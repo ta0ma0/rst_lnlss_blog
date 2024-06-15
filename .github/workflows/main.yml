@@ -24,8 +24,18 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          token: ${{ secrets.RST_LNLNSS_SECERT }}  # Use the secret here
           lfs: true
+          repository: ta0ma0/rst_lnlss_blog
+          ssh-strict: true
+          ssh-user: git
+          persist-credentials: true
+          clean: true
+          sparse-checkout-cone-mode: true
+          fetch-depth: 1
+          fetch-tags: false
+          show-progress: true
+          submodules: false
+          set-safe-directory: true 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:

@@ -39,7 +39,7 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           # Upload entire repository
-          path: 'rst_lnlss/public'
+          path: ./rst_lnlss/public
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4

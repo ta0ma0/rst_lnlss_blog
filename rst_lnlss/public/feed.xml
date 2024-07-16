@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Resist Loneliness (LOG FILE feed)</title><link href="http://resist-loneliness.blooddrop.live/blog/" rel="alternate"></link><link href="http://resist-loneliness.blooddrop.live/feed.xml" rel="self"></link><id>urn:uuid:0eed6876-7ee1-3989-97f7-0e23a01607d4</id><updated>2024-07-13T00:00:00Z</updated><author><name></name></author><entry><title>14/07/2024 00:24 (Black Ice)</title><link href="http://resist-loneliness.blooddrop.live/blog/14072024-0024-black-ice/" rel="alternate"></link><updated>2024-07-13T00:00:00Z</updated><author><name>rst_lnlss</name></author><id>urn:uuid:a72db59a-27c2-37e9-a0b8-edbafbaa9375</id><content type="html">&lt;div class="image-container leftimg"&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Resist Loneliness (LOG FILE feed)</title><link href="http://resist-loneliness.blooddrop.live/blog/" rel="alternate"></link><link href="http://resist-loneliness.blooddrop.live/feed.xml" rel="self"></link><id>urn:uuid:0eed6876-7ee1-3989-97f7-0e23a01607d4</id><updated>2024-07-16T06:39:50Z</updated><author><name></name></author><entry><title>14/07/2024 00:24 (Black Ice)</title><link href="http://resist-loneliness.blooddrop.live/blog/14072024-0024-black-ice/" rel="alternate"></link><updated>2024-07-13T00:00:00Z</updated><author><name>rst_lnlss</name></author><id>urn:uuid:a72db59a-27c2-37e9-a0b8-edbafbaa9375</id><content type="html">&lt;div class="image-container leftimg"&gt;
 &lt;img src='/static/Screenshot_2024-07-14_00-38-34.png' class=leftimg &gt;
   &lt;div class="overlay"&gt;
     &lt;p class="title"&gt;Night City&lt;/p&gt;
@@ -757,4 +757,24 @@ The dual boot laptop is buggy. Three freezes in Windows, once dead. I suspect th
 rekt.network continues to provide excellent soundtracks. A couple more energy drinks and I'm back in business. The contours of a new project loom on the horizon.&lt;/p&gt;
 &lt;p&gt;&lt;hr&gt;
 Sound: &lt;b&gt;Abominable Beat Machine -  Dessicator&lt;/b&gt;&lt;/p&gt;
-</content></entry></feed>
+</content></entry><entry><title>16/07/2024 10:38 (Fight for food)</title><link href="http://resist-loneliness.blooddrop.live/blog/16072024-1038-fight-for-food/" rel="alternate"></link><updated>2024-07-16T06:39:50Z</updated><author><name></name></author><id>urn:uuid:a73d3131-f079-3e40-a5af-df0310e16faf</id><content type="html">&lt;div class="image-container leftimg"&gt;
+&lt;img src='/static/cyberpunk_2077_by_seven_teenth_de637io-pre.jpg' class=leftimg &gt;
+  &lt;div class="overlay"&gt;
+    &lt;p class="title"&gt;Cyberpunk 2077&lt;/p&gt;
+    &lt;a href="https://www.deviantart.com/seven-teenth/art/Cyberpunk-2077-856753872" target="_blank" class="artist"&gt;by Seven-teenth&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;The UN's latest scheme to combat hunger and obesity just locked down my food automat. My AI slashed my grub expenses, blocking access to several menu items. At least I won't starve or get sick, but damn if it won't be bland as hell. Welcome to the brave new world where artificial intelligence decides what goes in your gut. No more eating whatever you want - Big Brother's watching your waistline now.
+Only two ways out of this nutrient prison: jack up my income or bail to the wasteland and learn to love the taste of roasted grasshoppers.&lt;/p&gt;
+&lt;p&gt;Sent a few test gigs out for verification. If the corps bite and my solutions pass muster, I'll be bumping my nutrition level back up in no time. Might even score a double upgrade if I'm lucky.
+Thought of the Day: Creds make the world go 'round. No creds? Your world stops spinning. Ha-ha.&lt;/p&gt;
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td&gt;Sound: Ghinzu - Turn Up the Satan&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;
+&lt;audio controls&gt;
+  &lt;source src="/static/sound/THYLACINE - Home.mp3" type="audio/mpeg"&gt;
+  Your browser does not support the audio element.
+&lt;/audio&gt;&lt;/td&gt; 
+  &lt;/tr&gt;
+&lt;/table&gt;</content></entry></feed>

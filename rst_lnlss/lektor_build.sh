@@ -1,2 +1,2 @@
 #!/bin/bash
-lektor build --output-path ./public
+./venv/bin/lektor build --output-path ./public
